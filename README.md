@@ -65,7 +65,7 @@ OpenVAS now sends vulnerability scan alerts directly to your inbox.
 Improved visibility and real-time awareness of scan activity.
 
 Author
-Your Name – Cybersecurity Intern
+Dahyanna Robinson – Cybersecurity Intern
 
 
 
