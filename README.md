@@ -66,6 +66,12 @@ Improved visibility and real-time awareness of scan activity.
 
 Author
 Dahyanna Robinson – Cybersecurity Intern
+```
+### 4. Screenshots (Proof of Work)
+| OpenVAS Dashboard | Email Alert Example |
+|-------------------|---------------------|
+| ![dashboard](screenshots/openvas_dashboard.png) | ![email](screenshots/email_alert.png) |
+
 
 
 
